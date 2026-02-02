@@ -1,0 +1,79 @@
+---
+title: 2016 High School Graduation Rates in Michigan & Zillow Home Values
+jupyter: python3
+---
+
+
+
+**Graduation Rates**
+
+High School graduation rates for the 2015-2016 school year by county for the state of Michigan. Data Driven Detroit obtained these datasets from MI School Data, for the State of the Detroit Child tool in July 2017. Graduation rates were originally obtained on a school level and aggregated to tract by Data Driven Detroit. The graduation rates were calculated by Data Driven Detroit, using the count of students per cohort per school divided by the count of students who graduated.
+
+**Zillow**
+
+Zillow Home Value Index (ZHVI): A measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range. Available as a smoothed, seasonally adjusted measure and as a raw measure. ZHVI All Homes (SFR, Condo/Co-op) Time Series, Smoothed, Seasonally Adjusted($), by county.
+
+## Load the data
+
+```{python}
+import pandas as pd
+import seaborn as sb
+```
+
+```{python}
+grad_file_path = "" # REPLACE
+grad_df = pd.read_csv(grad_file_path)
+```
+
+```{python}
+zillow_file_path = "" # REPLACE
+zillow_df = pd.read_csv(zillow_file_path)
+```
+
+```{python}
+#| colab: {base_uri: https://localhost:8080/, height: 206}
+grad_df.head()
+```
+
+```{python}
+#| colab: {base_uri: https://localhost:8080/, height: 206}
+zillow_df.head()
+```
+
+## Merge datasets
+
+```{python}
+df = pd.merge(grad_df, zillow_df, on='CountyName', how='inner')
+```
+
+```{python}
+#| colab: {base_uri: https://localhost:8080/, height: 206}
+df.head()
+```
+
+## Plotting
+
+```{python}
+#| colab: {base_uri: https://localhost:8080/, height: 466}
+sb.regplot(data=df, x='GradRate', y='HomeValue')
+```
+
+```{python}
+#| colab: {base_uri: https://localhost:8080/, height: 112}
+df[['GradRate', 'HomeValue']].corr()
+```
+
+```{python}
+df['SizeRankQuantile'] = pd.qcut(df['SizeRank'], q=3, labels=['Top Third', 'Middle Third', 'Bottom Third'])
+```
+
+```{python}
+#| colab: {base_uri: https://localhost:8080/, height: 209}
+df['SizeRankQuantile'].value_counts()
+```
+
+```{python}
+#| colab: {base_uri: https://localhost:8080/, height: 264}
+df.groupby('SizeRankQuantile')['HomeValue'].median()
+```
+
