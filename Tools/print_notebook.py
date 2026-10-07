@@ -1,9 +1,14 @@
 """Print a Colab notebook as a compact PDF for the quiz.
 
-In Colab, as a new cell at the end of a notebook whose cells have all been run:
+In Colab, as two new cells at the end of a notebook. The first is run once
+per session; it fetches this file and installs Quarto:
 
     !wget -q -N https://raw.githubusercontent.com/UM-Data-Science-101/data/main/Tools/print_notebook.py
-    from print_notebook import print_notebook
+    from print_notebook import print_notebook, install_quarto
+    install_quarto()
+
+The second prints, once every cell has been run:
+
     # print_notebook(two_columns=True, summary=True)
 
 The call stays commented out so that Run All checks the notebook without
@@ -114,6 +119,12 @@ def quarto_command():
         subprocess.run(f"wget -q -nc {url} && tar -xzf {folder}-linux-amd64.tar.gz",
                        shell=True, check=True)
     return f"{folder}/bin/quarto"
+
+
+def install_quarto():
+    """Download Quarto into the Colab session, unless it is already there."""
+    quarto_command()
+    return "Quarto is installed. You can now print with print_notebook()."
 
 
 def render(nb, two_columns=True, summary=True, name="notebook"):
