@@ -1,0 +1,627 @@
+id,make,model,vehicle_class,drive,transmission,transmission_type,gears,cylinders,displacement,turbo,supercharged,fuel,start_stop,gas_guzzler,city_mpg,highway_mpg,combined_mpg,co2,annual_fuel_cost,fe_score
+49044,Acura,ADX AWD,Small Station Wagons,All-Wheel Drive,Automatic (AV-S7),CVT,,4,1.5,Yes,No,Premium,Yes,No,25,30,27,329.0,3050,5
+49045,Acura,ADX FWD,Small Station Wagons,Front-Wheel Drive,Automatic (AV-S7),CVT,,4,1.5,Yes,No,Premium,Yes,No,26,31,28,317.0,2950,6
+47938,Acura,Integra,Large Cars,Front-Wheel Drive,Automatic (AV-S7),CVT,,4,1.5,Yes,No,Premium,Yes,No,30,37,33,269.0,2500,6
+48189,Acura,Integra,Large Cars,Front-Wheel Drive,Manual 6-spd,Manual,6.0,4,2.0,Yes,No,Premium,No,No,21,28,24,371.0,3400,5
+47939,Acura,Integra A-Spec,Large Cars,Front-Wheel Drive,Automatic (AV-S7),CVT,,4,1.5,Yes,No,Premium,Yes,No,29,36,32,277.0,2550,6
+47940,Acura,Integra A-Spec,Large Cars,Front-Wheel Drive,Manual 6-spd,Manual,6.0,4,1.5,Yes,No,Premium,Yes,No,26,36,30,293.0,2750,6
+48070,Acura,MDX AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.5,No,No,Premium,Yes,No,19,25,21,423.0,3900,4
+48113,Acura,MDX AWD Type-S,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.0,Yes,No,Premium,Yes,No,17,21,19,474.0,4350,4
+48055,Acura,MDX FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.5,No,No,Premium,Yes,No,19,26,22,411.0,3750,5
+48526,Acura,RDX AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S10),Automatic,10.0,4,2.0,Yes,No,Premium,Yes,No,21,27,23,385.0,3550,5
+48527,Acura,RDX AWD A-SPEC,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S10),Automatic,10.0,4,2.0,Yes,No,Premium,Yes,No,21,26,23,386.0,3550,5
+48161,Acura,TLX AWD A-SPEC,Compact Cars,All-Wheel Drive,Automatic (S10),Automatic,10.0,4,2.0,Yes,No,Premium,Yes,No,21,29,24,371.0,3400,5
+48160,Acura,TLX FWD,Compact Cars,Front-Wheel Drive,Automatic (S10),Automatic,10.0,4,2.0,Yes,No,Premium,Yes,No,22,31,25,352.0,3300,5
+48162,Acura,TLX Type-S,Compact Cars,All-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.0,Yes,No,Premium,Yes,No,19,25,21,420.0,3900,4
+48003,Alfa Romeo,Giulia,Midsize Cars,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,24,33,27,330.0,3050,5
+48004,Alfa Romeo,Giulia AWD,Midsize Cars,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,23,31,26,348.0,3150,5
+48071,Alfa Romeo,Stelvio AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,22,28,24,364.0,3400,5
+48915,Alfa Romeo,Tonale AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 9-spd,Automatic,9.0,4,2.0,Yes,No,Regular,Yes,No,21,29,24,372.0,2800,5
+47926,Aston Martin,DB12 V8,Minicompact Cars,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,8,4.0,Yes,No,Premium,No,No,15,22,17,507.0,4850,3
+47965,Aston Martin,DBX 707,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 9-spd,Automatic,9.0,8,4.0,Yes,No,Premium,No,No,15,20,17,537.0,4850,3
+48801,Aston Martin,Vanquish,Two Seaters,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,12,5.2,Yes,No,Premium,No,Yes,13,21,16,563.0,5150,3
+47925,Aston Martin,Vantage,Two Seaters,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,8,4.0,Yes,No,Premium,No,No,15,22,18,498.0,4550,4
+47969,Audi,A3 quattro,Subcompact Cars,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,24,34,28,320.0,2950,6
+49040,Audi,A5 quattro,Midsize Cars,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,22,31,26,349.0,3150,5
+48260,Audi,Q3,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,22,29,25,360.0,3300,5
+48528,Audi,Q3 S-Line quattro,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,20,28,23,386.0,3550,5
+49052,Audi,Q5 Sportback TFSI quattro,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,22,30,25,358.0,3300,5
+49051,Audi,Q5 TFSI quattro,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,22,30,25,358.0,3300,5
+47804,Audi,Q7,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,20,26,22,405.0,3750,5
+49136,Audi,RS 3,Subcompact Cars,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,5,2.5,Yes,No,Premium,No,No,20,29,23,385.0,3550,5
+48006,Audi,RS 5 Sportback,Midsize Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,2.9,Yes,No,Premium,No,No,18,25,20,438.0,4100,4
+48150,Audi,S3,Subcompact Cars,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,23,31,26,344.0,3150,5
+47973,Audi,S4,Compact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,20,29,24,377.0,3400,5
+49041,Audi,S5,Midsize Cars,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,6,3.0,Yes,No,Premium,Yes,No,19,28,22,397.0,3750,5
+48005,Audi,S5 Sportback,Midsize Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,20,29,23,384.0,3550,5
+48072,Audi,SQ5,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,19,24,21,427.0,3900,4
+49049,Audi,SQ5,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,6,3.0,Yes,No,Premium,Yes,No,19,26,22,404.0,3750,5
+48073,Audi,SQ5 Sportback,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,19,24,21,427.0,3900,4
+49050,Audi,SQ5 Sportback,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,6,3.0,Yes,No,Premium,Yes,No,19,26,22,404.0,3750,5
+47806,Audi,SQ7,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,4.0,Yes,No,Premium,Yes,No,15,21,17,524.0,4850,3
+48114,Audi,SQ8,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,4.0,Yes,No,Premium,Yes,No,15,21,17,518.0,4850,3
+48841,BMW,228 xDrive Gran Coupe,Compact Cars,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,26,38,30,288.0,2750,6
+48151,BMW,230i Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,26,35,30,296.0,2750,6
+48152,BMW,230i xDrive Coupe,Subcompact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,25,33,28,313.0,2950,6
+47698,BMW,840i Convertible,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,21,29,24,368.0,3400,5
+47696,BMW,840i Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,21,29,24,368.0,3400,5
+47712,BMW,840i Gran Coupe,Midsize Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,21,29,24,368.0,3400,5
+47699,BMW,840i xDrive Convertible,Subcompact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,21,29,24,373.0,3400,5
+47697,BMW,840i xDrive Coupe,Subcompact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,21,29,24,373.0,3400,5
+47713,BMW,840i xDrive Gran Coupe,Midsize Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,21,29,24,373.0,3400,5
+47715,BMW,Alpina B8 Gran Coupe,Midsize Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,4.4,Yes,No,Premium,Yes,No,17,24,19,458.0,4350,4
+47970,BMW,M2 Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,16,23,19,466.0,4350,4
+48155,BMW,M2 Coupe,Subcompact Cars,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,6,3.0,Yes,No,Premium,Yes,No,16,23,19,473.0,4350,4
+48842,BMW,M235 xDrive Gran Coupe,Compact Cars,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,24,33,27,321.0,3050,5
+48153,BMW,M240i Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,23,32,26,339.0,3150,5
+48154,BMW,M240i xDrive Coupe,Subcompact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,23,32,26,336.0,3150,5
+47978,BMW,M3 Competition M xDrive Sedan,Compact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,16,23,18,477.0,4550,4
+47977,BMW,M3 Competition Sedan,Compact Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,16,23,19,470.0,4350,4
+47976,BMW,M3 Sedan,Compact Cars,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,6,3.0,Yes,No,Premium,Yes,No,16,23,19,472.0,4350,4
+47971,BMW,M4 CS Coupe,Subcompact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,16,23,18,478.0,4550,4
+47774,BMW,M4 Competition Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,16,23,19,470.0,4350,4
+47776,BMW,M4 Competition M xDrive Convertible,Subcompact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,16,22,18,479.0,4550,4
+47775,BMW,M4 Competition M xDrive Coupe,Subcompact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,16,23,18,472.0,4550,4
+47773,BMW,M4 Coupe,Subcompact Cars,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,6,3.0,Yes,No,Premium,Yes,No,16,23,19,472.0,4350,4
+47703,BMW,M8 Competition Convertible,Subcompact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,4.4,Yes,No,Premium,Yes,Yes,15,22,17,517.0,4850,3
+47702,BMW,M8 Competition Coupe,Subcompact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,4.4,Yes,No,Premium,Yes,Yes,15,22,17,517.0,4850,3
+47716,BMW,M8 Competition Gran Coupe,Midsize Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,4.4,Yes,No,Premium,Yes,Yes,15,22,17,517.0,4850,3
+47701,BMW,M850i xDrive Convertible,Subcompact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,4.4,Yes,No,Premium,Yes,No,17,24,19,458.0,4350,4
+47700,BMW,M850i xDrive Coupe,Subcompact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,4.4,Yes,No,Premium,Yes,No,17,24,19,456.0,4350,4
+47714,BMW,M850i xDrive Gran Coupe,Midsize Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,4.4,Yes,No,Premium,Yes,No,17,24,19,458.0,4350,4
+48262,BMW,X1 M35i,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,23,31,26,334.0,3150,5
+48261,BMW,X1 xDrive28i,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,24,33,28,318.0,2950,6
+48264,BMW,X2 M35i,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,23,32,26,332.0,3150,5
+48263,BMW,X2 xDrive28i,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,24,33,28,318.0,2950,6
+48081,BMW,X4 M,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,15,20,17,519.0,4850,3
+48082,BMW,X4 M Competition,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,15,20,17,519.0,4850,3
+48079,BMW,X4 xDrive30i,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,21,27,24,372.0,3400,5
+47763,BMW,Z4 M40i,Two Seaters,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,23,29,25,346.0,3300,5
+47764,BMW,Z4 M40i,Two Seaters,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,6,3.0,Yes,No,Premium,Yes,No,19,26,22,407.0,3750,5
+47695,BMW,Z4 sDrive30i,Two Seaters,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,25,33,28,312.0,2950,6
+48554,Bentley,Bentayga,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,4.0,Yes,No,Premium,Yes,No,14,21,16,553.0,5150,3
+48555,Bentley,Bentayga EWB,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,4.0,Yes,No,Premium,Yes,No,14,21,16,553.0,5150,3
+48578,Bugatti,Mistral,Two Seaters,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,16,8.0,Yes,No,Premium,No,Yes,8,12,9,943.0,9150,1
+48116,Buick,Enclave AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.5,Yes,No,Regular,Yes,No,19,24,21,422.0,3200,4
+48109,Buick,Enclave FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.5,Yes,No,Regular,Yes,No,20,27,23,387.0,2900,5
+47791,Buick,Encore GX AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 9-spd,Automatic,9.0,3,1.3,Yes,No,Regular,Yes,No,26,28,27,339.0,2500,5
+47785,Buick,Encore GX FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,3,1.3,Yes,No,Regular,Yes,No,29,31,30,297.0,2250,6
+48083,Buick,Envision AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S9),Automatic,9.0,4,2.0,Yes,No,Regular,Yes,No,22,28,24,371.0,2800,5
+47780,Buick,Envista,Small Station Wagons,Front-Wheel Drive,Automatic 6-spd,Automatic,6.0,3,1.2,Yes,No,Regular,Yes,No,28,32,30,296.0,2250,6
+47979,Cadillac,CT4,Compact Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,22,32,26,345.0,3150,5
+47981,Cadillac,CT4,Compact Cars,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,4,2.7,Yes,No,Premium,Yes,No,21,31,25,356.0,3300,5
+47980,Cadillac,CT4 AWD,Compact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,21,31,25,357.0,3300,5
+47983,Cadillac,CT4 AWD,Compact Cars,All-Wheel Drive,Automatic (S10),Automatic,10.0,4,2.7,Yes,No,Premium,Yes,No,21,29,24,371.0,3400,5
+47982,Cadillac,CT4 V,Compact Cars,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,4,2.7,Yes,No,Premium,Yes,No,20,29,23,383.0,3550,5
+47985,Cadillac,CT4 V,Compact Cars,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.6,Yes,No,Premium,No,No,16,24,19,478.0,4350,4
+47986,Cadillac,CT4 V,Compact Cars,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,6,3.6,Yes,No,Premium,No,No,15,23,18,493.0,4550,4
+47984,Cadillac,CT4 V AWD,Compact Cars,All-Wheel Drive,Automatic (S10),Automatic,10.0,4,2.7,Yes,No,Premium,Yes,No,20,28,23,387.0,3550,5
+47931,Cadillac,CT5,Midsize Cars,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.0,Yes,No,Premium,Yes,No,19,28,22,399.0,3750,5
+47934,Cadillac,CT5,Midsize Cars,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,4,2.0,Yes,No,Premium,Yes,No,23,32,26,341.0,3150,5
+47933,Cadillac,CT5 AWD,Midsize Cars,All-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.0,Yes,No,Premium,Yes,No,18,26,21,422.0,3900,4
+47935,Cadillac,CT5 AWD,Midsize Cars,All-Wheel Drive,Automatic (S10),Automatic,10.0,4,2.0,Yes,No,Premium,Yes,No,21,30,25,361.0,3300,5
+47930,Cadillac,CT5 V,Midsize Cars,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.0,Yes,No,Premium,Yes,No,18,27,21,424.0,3900,4
+48013,Cadillac,CT5 V,Midsize Cars,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,8,6.2,No,Yes,Premium,No,Yes,13,20,15,579.0,5500,2
+48014,Cadillac,CT5 V,Midsize Cars,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,8,6.2,No,Yes,Premium,No,Yes,13,20,15,587.0,5500,2
+47932,Cadillac,CT5 V AWD,Midsize Cars,All-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.0,Yes,No,Premium,Yes,No,17,26,20,445.0,4100,4
+48620,Cadillac,Escalade 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,6.2,No,No,Premium,Yes,No,15,19,17,537.0,4850,3
+48629,Cadillac,Escalade 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,6.2,No,No,Premium,Yes,No,14,18,16,572.0,5150,3
+48556,Cadillac,Escalade V AWD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S10),Automatic,10.0,8,6.2,No,Yes,Premium,No,No,11,17,13,683.0,6300,1
+48088,Cadillac,XT4 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S9),Automatic,9.0,4,2.0,Yes,No,Premium,Yes,No,23,28,25,357.0,3300,5
+48056,Cadillac,XT4 FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S9),Automatic,9.0,4,2.0,Yes,No,Premium,Yes,No,24,29,26,343.0,3150,5
+48084,Cadillac,XT5 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S9),Automatic,9.0,4,2.0,Yes,No,Premium,Yes,No,21,27,23,386.0,3550,5
+48086,Cadillac,XT5 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.6,No,No,Regular,Yes,No,18,26,21,424.0,3200,4
+48057,Cadillac,XT5 FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S9),Automatic,9.0,4,2.0,Yes,No,Premium,Yes,No,22,29,24,370.0,3400,5
+48059,Cadillac,XT5 FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.6,No,No,Regular,Yes,No,19,26,21,418.0,3200,4
+48085,Cadillac,XT6 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S9),Automatic,9.0,4,2.0,Yes,No,Premium,Yes,No,21,26,23,386.0,3550,5
+48087,Cadillac,XT6 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.6,No,No,Regular,Yes,No,18,25,20,435.0,3350,4
+48058,Cadillac,XT6 FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S9),Automatic,9.0,4,2.0,Yes,No,Premium,Yes,No,21,27,23,386.0,3550,5
+48060,Cadillac,XT6 FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.6,No,No,Regular,Yes,No,19,26,21,418.0,3200,4
+48090,Chevrolet,Blazer AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 9-spd,Automatic,9.0,4,2.0,Yes,No,Regular,Yes,No,22,27,24,368.0,2800,5
+48091,Chevrolet,Blazer AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 9-spd,Automatic,9.0,6,3.6,No,No,Regular,Yes,No,18,26,21,422.0,3200,4
+48062,Chevrolet,Blazer FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 9-spd,Automatic,9.0,4,2.0,Yes,No,Regular,Yes,No,22,29,25,350.0,2700,5
+48063,Chevrolet,Blazer FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 9-spd,Automatic,9.0,6,3.6,No,No,Regular,Yes,No,19,26,22,411.0,3050,5
+48882,Chevrolet,Colorado 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,19,23,20,434.0,3350,4
+48888,Chevrolet,Colorado 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,17,21,19,487.0,3550,4
+48889,Chevrolet,Colorado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,17,20,18,494.0,3700,4
+48890,Chevrolet,Colorado ZR2 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,17,17,17,527.0,3950,3
+48891,Chevrolet,Colorado ZR2 Bison 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,16,16,16,564.0,4200,3
+48477,Chevrolet,Corvette,Two Seaters,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,8,6.2,No,No,Premium,No,No,16,25,19,471.0,4350,4
+48479,Chevrolet,Corvette Z06,Two Seaters,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,8,5.5,No,No,Premium,No,Yes,12,20,14,614.0,5850,2
+48480,Chevrolet,Corvette Z06 Carbon Aero,Two Seaters,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,8,5.5,No,No,Premium,No,Yes,12,19,14,631.0,5850,2
+49031,Chevrolet,Corvette ZR1,Two Seaters,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,8,5.5,Yes,No,Premium,No,Yes,12,18,14,637.0,5850,2
+48089,Chevrolet,Equinox AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,1.5,Yes,No,Regular,Yes,No,24,29,26,344.0,2600,5
+48061,Chevrolet,Equinox FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,1.5,Yes,No,Regular,Yes,No,26,28,27,332.0,2500,5
+48015,Chevrolet,Malibu,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,1.5,Yes,No,Regular,Yes,No,28,36,31,283.0,2150,6
+48200,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,17,21,19,470.0,3550,4
+48201,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,18,21,19,468.0,3550,4
+48202,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,16,21,18,490.0,3700,4
+48203,Chevrolet,Silverado 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,16,21,18,491.0,3700,4
+48214,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,17,20,18,482.0,3700,4
+48215,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,17,20,18,481.0,3700,4
+48220,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,6.2,No,No,Premium,Yes,No,15,20,17,528.0,4850,3
+48223,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,No,No,15,19,16,546.0,4200,3
+48225,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,16,19,17,520.0,3950,3
+48227,Chevrolet,Silverado 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,16,19,17,525.0,3950,3
+48222,Chevrolet,Silverado 4WD ZR2,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,6.2,No,No,Premium,Yes,No,14,17,15,591.0,5500,2
+48248,Chevrolet,Silverado Cab Chassis 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,15,18,16,551.0,4200,3
+48249,Chevrolet,Silverado Cab Chassis 4WD,Special Purpose Vehicle 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,14,16,15,592.0,4450,2
+48216,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,16,17,16,541.0,4200,3
+48217,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,16,17,16,538.0,4200,3
+48221,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,6.2,No,No,Premium,Yes,No,14,17,15,593.0,5500,2
+48224,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,No,No,15,19,16,546.0,4200,3
+48226,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,15,18,16,545.0,4200,3
+48228,Chevrolet,Silverado Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,15,18,16,545.0,4200,3
+48622,Chevrolet,Suburban 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,6.2,No,No,Premium,Yes,No,15,19,16,544.0,5150,3
+48624,Chevrolet,Suburban 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,15,20,17,530.0,3950,3
+48631,Chevrolet,Suburban 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,6.2,No,No,Premium,Yes,No,14,18,16,572.0,5150,3
+48633,Chevrolet,Suburban 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,14,19,16,571.0,4200,3
+48621,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,6.2,No,No,Premium,Yes,No,15,20,17,523.0,4850,3
+48623,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,15,20,17,530.0,3950,3
+48630,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,6.2,No,No,Premium,Yes,No,14,18,16,572.0,5150,3
+48632,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,15,19,17,535.0,3950,3
+48953,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,No,No,14,18,16,571.0,4200,3
+47792,Chevrolet,Trailblazer AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 9-spd,Automatic,9.0,3,1.3,Yes,No,Regular,Yes,No,26,29,27,329.0,2500,5
+47787,Chevrolet,Trailblazer FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,3,1.3,Yes,No,Regular,Yes,No,29,33,31,287.0,2150,6
+48117,Chevrolet,Traverse AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.5,Yes,No,Regular,Yes,No,19,24,21,422.0,3200,4
+48110,Chevrolet,Traverse FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.5,Yes,No,Regular,Yes,No,20,27,23,388.0,2900,5
+47781,Chevrolet,Trax,Small Station Wagons,Front-Wheel Drive,Automatic 6-spd,Automatic,6.0,3,1.2,Yes,No,Regular,Yes,No,28,31,29,306.0,2300,6
+48252,Chrysler,Pacifica,Minivan - 2WD,Front-Wheel Drive,Automatic 9-spd,Automatic,9.0,6,3.6,No,No,Regular,Yes,No,19,28,22,401.0,3050,5
+48255,Chrysler,Pacifica AWD,Minivan - 4WD,All-Wheel Drive,Automatic 9-spd,Automatic,9.0,6,3.6,No,No,Regular,Yes,No,17,25,20,450.0,3350,4
+48253,Chrysler,Voyager,Minivan - 2WD,Front-Wheel Drive,Automatic 9-spd,Automatic,9.0,6,3.6,No,No,Regular,Yes,No,19,28,22,401.0,3050,5
+48287,Dodge,Durango AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.6,No,No,Regular,Yes,No,17,24,20,450.0,3350,4
+48288,Dodge,Durango AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,8,5.7,No,No,Midgrade,No,No,14,22,17,533.0,4450,3
+48279,Dodge,Durango RWD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.6,No,No,Regular,Yes,No,18,25,20,439.0,3350,4
+48280,Dodge,Durango RWD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,8,5.7,No,No,Midgrade,No,No,14,22,17,525.0,4450,3
+48289,Dodge,Durango SRT AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,8,6.2,No,Yes,Premium,No,No,12,17,13,659.0,6300,1
+47955,Dodge,Hornet AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 9-spd,Automatic,9.0,4,2.0,Yes,No,Regular,Yes,No,21,29,24,372.0,2800,5
+48580,Ferrari,Daytona SP3,Two Seaters,Rear-Wheel Drive,Automatic (AM7),Automatic,7.0,12,6.5,No,No,Premium,Yes,Yes,12,16,13,660.0,6300,1
+48579,Ferrari,F167 ABA,Two Seaters,Rear-Wheel Drive,Automatic (AM8),Automatic,8.0,12,6.5,No,No,Premium,Yes,Yes,12,19,14,619.0,5850,2
+48634,Ferrari,Purosangue,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM8),Automatic,8.0,12,6.5,No,No,Premium,Yes,No,11,15,12,711.0,6850,1
+48588,Ferrari,Roma Spider,Minicompact Cars,Rear-Wheel Drive,Automatic (AM8),Automatic,8.0,8,3.9,Yes,No,Premium,Yes,No,17,22,19,467.0,4350,4
+49053,Ford,Bronco 4WD,Small Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,4,2.3,Yes,No,Regular,Yes,No,18,22,20,464.0,3350,4
+49054,Ford,Bronco 4WD,Small Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,6,2.7,Yes,No,Regular,Yes,No,17,18,18,494.0,3700,4
+49055,Ford,Bronco 4WD,Small Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Manual 7-spd,Manual,7.0,4,2.3,Yes,No,Regular,Yes,No,18,21,19,468.0,3550,4
+49058,Ford,Bronco 4WD,Small Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,6,2.7,Yes,No,Regular,Yes,No,17,18,18,506.0,3700,4
+49056,Ford,Bronco Badlands 4WD,Small Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,4,2.3,Yes,No,Regular,Yes,No,17,19,18,517.0,3700,4
+49148,Ford,Bronco Badlands 4WD,Small Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Manual 7-spd,Manual,7.0,4,2.3,Yes,No,Regular,Yes,No,17,18,17,526.0,3950,3
+48958,Ford,Bronco Outer Banks 4WD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,6,2.7,Yes,No,Regular,Yes,No,19,21,20,453.0,3350,4
+48957,Ford,Bronco Raptor 4WD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.0,Yes,No,Regular,Yes,No,15,16,15,577.0,4450,2
+49146,Ford,Bronco Sasquatch 4WD,Small Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,4,2.3,Yes,No,Regular,Yes,No,17,19,18,464.0,3700,4
+49147,Ford,Bronco Sasquatch 4WD,Small Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Manual 7-spd,Manual,7.0,4,2.3,Yes,No,Regular,Yes,No,17,19,18,468.0,3700,4
+48916,Ford,Bronco Sport 4WD,Small Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic 8-spd,Automatic,8.0,3,1.5,Yes,No,Regular,Yes,No,25,30,27,324.0,2500,5
+48917,Ford,Bronco Sport 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,21,27,23,387.0,2900,5
+49057,Ford,Bronco Sport Sasquatch 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,3,1.5,Yes,No,Regular,Yes,No,23,26,24,370.0,2800,5
+48607,Ford,Escape AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,23,31,26,336.0,2600,5
+48608,Ford,Escape AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,3,1.5,Yes,No,Regular,Yes,No,26,32,28,316.0,2400,6
+48602,Ford,Escape FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 8-spd,Automatic,8.0,3,1.5,Yes,No,Regular,Yes,No,27,34,30,298.0,2250,6
+48943,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.5,Yes,No,Regular,Yes,No,16,24,19,472.0,3550,4
+48956,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.5,Yes,No,Regular,Yes,No,15,22,18,501.0,3700,4
+48118,Ford,Explorer AWD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.0,Yes,No,Regular,Yes,No,18,25,20,439.0,3350,4
+48119,Ford,Explorer AWD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic 10-spd,Automatic,10.0,6,3.0,Yes,No,Regular,Yes,No,18,25,21,428.0,3200,4
+48120,Ford,Explorer AWD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic 10-spd,Automatic,10.0,4,2.3,Yes,No,Regular,Yes,No,20,27,23,394.0,2900,5
+48281,Ford,Explorer RWD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.0,Yes,No,Regular,Yes,No,18,25,21,425.0,3200,4
+48282,Ford,Explorer RWD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,6,3.0,Yes,No,Regular,Yes,No,18,25,21,420.0,3200,4
+48283,Ford,Explorer RWD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,4,2.3,Yes,No,Regular,Yes,No,20,29,24,377.0,2800,5
+48884,Ford,F150 Pickup 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.5,Yes,No,Regular,Yes,No,17,25,20,452.0,3350,4
+48885,Ford,F150 Pickup 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,6,2.7,Yes,No,Regular,Yes,No,19,25,21,425.0,3200,4
+48886,Ford,F150 Pickup 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,8,5.0,No,No,Regular,Yes,No,16,24,19,473.0,3550,4
+48895,Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.5,Yes,No,Regular,Yes,No,16,24,19,467.0,3550,4
+48896,Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,8,5.0,No,No,Regular,Yes,No,16,24,19,474.0,3550,4
+49143,Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,6,2.7,Yes,No,Regular,Yes,No,18,23,20,437.0,3350,4
+48893,Ford,F150 Pickup Tremor 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.5,Yes,No,Regular,Yes,No,16,21,18,494.0,3700,4
+48894,Ford,F150 Pickup Tremor 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,8,5.0,No,No,Regular,Yes,No,15,20,17,523.0,3950,3
+48898,Ford,F150 RAPTOR 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.5,Yes,No,Regular,Yes,No,14,18,16,559.0,4200,3
+49144,Ford,F150 RAPTOR R 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,8,5.2,No,Yes,Premium,No,No,10,15,12,741.0,6850,1
+48874,Ford,Maverick AWD,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,22,30,25,355.0,2700,5
+48875,Ford,Maverick Lobo AWD,Small Pickup Trucks 4WD,4-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,21,30,24,370.0,2800,5
+48876,Ford,Maverick Tremor AWD,Small Pickup Trucks 4WD,4-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,21,27,23,387.0,2900,5
+48825,Ford,Mustang,Subcompact Cars,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,8,5.0,No,No,Regular,Yes,No,16,24,19,467.0,3550,4
+48826,Ford,Mustang,Subcompact Cars,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,4,2.3,Yes,No,Regular,Yes,No,22,33,26,342.0,2600,5
+48827,Ford,Mustang,Subcompact Cars,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,8,5.0,No,No,Regular,Yes,No,15,23,18,494.0,3700,4
+48823,Ford,Mustang Dark Horse,Subcompact Cars,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,8,5.0,No,No,Regular,No,Yes,14,22,17,524.0,3950,3
+48824,Ford,Mustang Dark Horse,Subcompact Cars,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,8,5.0,No,No,Regular,No,Yes,14,22,17,533.0,3950,3
+48828,Ford,Mustang GTD,Subcompact Cars,Rear-Wheel Drive,Automatic (AM-S8),Automatic,8.0,8,5.2,No,Yes,Regular,No,Yes,10,17,12,741.0,5600,1
+48883,Ford,Ranger 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,4,2.3,Yes,No,Regular,Yes,No,21,26,23,380.0,2900,5
+49046,Ford,Ranger 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,4,2.3,Yes,No,Regular,Yes,No,19,26,22,405.0,3050,5
+49142,Ford,Ranger 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,6,2.7,Yes,No,Regular,Yes,No,19,23,20,431.0,3350,4
+48892,Ford,Ranger RAPTOR 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.0,Yes,No,Regular,Yes,No,16,18,17,525.0,3950,3
+48122,GMC,Acadia AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.5,Yes,No,Regular,Yes,No,19,24,21,422.0,3200,4
+48111,GMC,Acadia FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.5,Yes,No,Regular,Yes,No,20,27,23,387.0,2900,5
+48887,GMC,Canyon 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,19,23,20,434.0,3350,4
+48899,GMC,Canyon 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,17,21,19,487.0,3550,4
+48900,GMC,Canyon AT4X 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,17,17,17,527.0,3950,3
+48901,GMC,Canyon AT4X AEV 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,16,16,16,564.0,4200,3
+48205,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,18,21,19,468.0,3550,4
+48206,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,17,21,19,470.0,3550,4
+48207,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,16,21,18,495.0,3700,4
+48208,GMC,Sierra 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,16,20,17,507.0,3950,3
+48232,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,17,18,17,516.0,3950,3
+48233,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,17,19,18,496.0,3700,4
+48237,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,6.2,No,No,Premium,Yes,No,15,19,16,539.0,5150,3
+48240,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,No,No,15,19,16,546.0,4200,3
+48242,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,15,19,17,526.0,3950,3
+48244,GMC,Sierra 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,15,19,17,535.0,3950,3
+48239,GMC,Sierra 4WD AT4X,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,6.2,No,No,Premium,Yes,No,14,16,15,601.0,5500,2
+48250,GMC,Sierra Cab Chassis 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,15,18,16,551.0,4200,3
+48251,GMC,Sierra Cab Chassis 4WD,Special Purpose Vehicle 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,14,16,15,592.0,4450,2
+48234,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.7,Yes,No,Regular,Yes,No,16,17,16,538.0,4200,3
+48238,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,6.2,No,No,Premium,Yes,No,14,17,15,593.0,5500,2
+48241,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,No,No,15,19,16,546.0,4200,3
+48243,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,15,18,16,549.0,4200,3
+48245,GMC,Sierra Mud Terrain Tires 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,15,18,16,553.0,4200,3
+48610,GMC,Terrain AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,1.5,Yes,No,Regular,Yes,No,24,28,25,356.0,2700,5
+48603,GMC,Terrain FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,1.5,Yes,No,Regular,Yes,No,26,28,27,332.0,2500,5
+48625,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,6.2,No,No,Premium,Yes,No,15,20,17,523.0,4850,3
+48627,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,15,20,17,530.0,3950,3
+48635,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,6.2,No,No,Premium,Yes,No,14,18,16,572.0,5150,3
+48637,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,15,19,17,535.0,3950,3
+48626,GMC,Yukon XL 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,6.2,No,No,Premium,Yes,No,15,19,16,544.0,5150,3
+48628,GMC,Yukon XL 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,15,20,17,530.0,3950,3
+48636,GMC,Yukon XL 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,6.2,No,No,Premium,Yes,No,14,18,16,572.0,5150,3
+48638,GMC,Yukon XL 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 10-spd,Automatic,10.0,8,5.3,No,No,Regular,Yes,No,14,19,16,571.0,4200,3
+47704,Genesis,G70 AWD,Compact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.3,Yes,No,Premium,No,No,17,23,19,466.0,4350,4
+47706,Genesis,G70 AWD,Compact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,Yes,No,Premium,No,No,20,28,23,385.0,3550,5
+47705,Genesis,G70 RWD,Compact Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.3,Yes,No,Premium,No,No,17,25,20,449.0,4100,4
+47707,Genesis,G70 RWD,Compact Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,Yes,No,Premium,No,No,21,29,24,373.0,3400,5
+48038,Genesis,G80 AWD,Large Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,Yes,No,Premium,Yes,No,20,29,24,377.0,3400,5
+48039,Genesis,G80 AWD,Large Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.5,Yes,No,Premium,Yes,No,16,24,19,474.0,4350,4
+48040,Genesis,G90 AWD,Large Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.5,Yes,No,Premium,Yes,No,18,26,21,426.0,3900,4
+47730,Genesis,GV70 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,Yes,No,Premium,Yes,No,19,26,22,408.0,3750,5
+47731,Genesis,GV70 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,Yes,No,Premium,Yes,No,22,28,24,369.0,3400,5
+47732,Genesis,GV70 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.5,Yes,No,Premium,Yes,No,18,24,20,441.0,4100,4
+47751,Genesis,GV80 AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,Yes,No,Premium,Yes,No,19,24,21,427.0,3900,4
+47752,Genesis,GV80 AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.5,Yes,No,Premium,Yes,No,16,22,19,480.0,4350,4
+48504,Honda,Accord,Large Cars,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,1.5,Yes,No,Regular,Yes,No,29,37,32,277.0,2100,6
+47956,Honda,CR-V AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (variable gear ratios),CVT,,4,1.5,Yes,No,Regular,Yes,No,26,31,28,312.0,2400,6
+47949,Honda,CR-V FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,1.5,Yes,No,Regular,Yes,No,28,34,30,290.0,2250,6
+48016,Honda,Civic 4Dr,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,2.0,No,No,Regular,Yes,No,32,41,36,248.0,1850,7
+48017,Honda,Civic 4Dr,Midsize Cars,Front-Wheel Drive,Automatic (AV-S7),CVT,,4,2.0,No,No,Regular,Yes,No,31,39,34,260.0,1950,7
+48178,Honda,Civic 4Dr,Midsize Cars,Front-Wheel Drive,Manual 6-spd,Manual,6.0,4,1.5,Yes,No,Premium,Yes,No,27,37,31,285.0,2650,6
+48042,Honda,Civic 5Dr,Large Cars,Front-Wheel Drive,Manual 6-spd,Manual,6.0,4,2.0,Yes,No,Premium,No,No,22,28,24,364.0,3400,5
+48502,Honda,Civic 5Dr,Large Cars,Front-Wheel Drive,Automatic (AV-S7),CVT,,4,2.0,No,No,Regular,Yes,No,30,38,34,260.0,1950,7
+47782,Honda,HR-V AWD,Small Station Wagons,All-Wheel Drive,Automatic (variable gear ratios),CVT,,4,2.0,No,No,Regular,No,No,25,30,27,326.0,2500,5
+47783,Honda,HR-V FWD,Small Station Wagons,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,2.0,No,No,Regular,No,No,26,32,28,311.0,2400,6
+48254,Honda,Odyssey,Minivan - 2WD,Front-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.5,No,No,Regular,Yes,No,19,28,22,395.0,3050,5
+48092,Honda,Passport AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.5,No,No,Regular,Yes,No,19,24,21,416.0,3200,4
+47753,Honda,Pilot AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.5,No,No,Regular,Yes,No,19,25,21,415.0,3200,4
+47754,Honda,Pilot AWD Touring/Elite/Black,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.5,No,No,Regular,Yes,No,19,25,21,422.0,3200,4
+47755,Honda,Pilot AWD TrailSport,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.5,No,No,Regular,Yes,No,18,23,20,444.0,3350,4
+47728,Honda,Pilot FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.5,No,No,Regular,Yes,No,19,27,22,402.0,3050,5
+48246,Honda,Ridgeline AWD,Standard Pickup Trucks 4WD,All-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.5,No,No,Regular,Yes,No,18,24,21,429.0,3200,4
+48247,Honda,Ridgeline AWD TrailSport,Standard Pickup Trucks 4WD,All-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.5,No,No,Regular,Yes,No,18,23,20,446.0,3350,4
+48019,Hyundai,Elantra,Midsize Cars,Front-Wheel Drive,Automatic (AV-S1),CVT,,4,2.0,No,No,Regular,No,No,30,39,34,263.0,1950,7
+48020,Hyundai,Elantra,Midsize Cars,Front-Wheel Drive,Automatic (AV-S1),CVT,,4,2.0,No,No,Regular,Yes,No,32,41,36,246.0,1850,7
+48021,Hyundai,Elantra,Midsize Cars,Front-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,1.6,Yes,No,Regular,No,No,28,35,31,288.0,2150,6
+48024,Hyundai,Elantra N,Midsize Cars,Front-Wheel Drive,Automatic (AM-S8),Automatic,8.0,4,2.0,Yes,No,Premium,No,No,20,27,23,392.0,3550,5
+48025,Hyundai,Elantra N,Midsize Cars,Front-Wheel Drive,Manual 6-spd,Manual,6.0,4,2.0,Yes,No,Premium,No,No,21,29,24,366.0,3400,5
+47959,Hyundai,Kona AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S1),CVT,,4,2.0,No,No,Regular,No,No,26,29,27,323.0,2500,5
+47960,Hyundai,Kona AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S1),CVT,,4,2.0,No,No,Regular,Yes,No,27,29,28,319.0,2400,6
+48093,Hyundai,Kona AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,1.6,Yes,No,Regular,No,No,24,29,26,339.0,2600,5
+47952,Hyundai,Kona FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (AV-S1),CVT,,4,2.0,No,No,Regular,No,No,28,35,31,288.0,2150,6
+47953,Hyundai,Kona FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (AV-S1),CVT,,4,2.0,No,No,Regular,Yes,No,29,34,31,284.0,2150,6
+48064,Hyundai,Kona FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,1.6,Yes,No,Regular,No,No,26,32,28,315.0,2400,6
+47958,Hyundai,Palisade AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.8,No,No,Regular,Yes,No,19,24,21,420.0,3200,4
+47951,Hyundai,Palisade FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.8,No,No,Regular,Yes,No,19,26,22,403.0,3050,5
+48266,Hyundai,Santa Cruz AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,No,No,21,29,24,367.0,2800,5
+48267,Hyundai,Santa Cruz AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S8),Automatic,8.0,4,2.5,Yes,No,Regular,No,No,19,27,22,406.0,3050,5
+48257,Hyundai,Santa Cruz FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,No,No,22,30,25,356.0,2700,5
+48270,Hyundai,Santa Cruz XRT AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S8),Automatic,8.0,4,2.5,Yes,No,Regular,No,No,18,26,21,419.0,3200,4
+48269,Hyundai,Santa Fe AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S8),Automatic,8.0,4,2.5,Yes,No,Regular,Yes,No,20,28,23,390.0,2900,5
+48268,Hyundai,Santa Fe AWD XRT,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S8),Automatic,8.0,4,2.5,Yes,No,Regular,Yes,No,19,26,22,409.0,3050,5
+48258,Hyundai,Santa Fe FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (AM-S8),Automatic,8.0,4,2.5,Yes,No,Regular,Yes,No,20,29,24,376.0,2800,5
+48043,Hyundai,Sonata AWD,Large Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,No,No,25,34,28,316.0,2400,6
+48044,Hyundai,Sonata FWD,Large Cars,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,No,No,25,36,29,305.0,2300,6
+48045,Hyundai,Sonata FWD,Large Cars,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,Yes,No,28,38,32,281.0,2100,6
+48046,Hyundai,Sonata FWD,Large Cars,Front-Wheel Drive,Automatic (AM-S8),Automatic,8.0,4,2.5,Yes,No,Regular,No,No,23,32,27,333.0,2500,5
+47793,Hyundai,Tucson AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,No,No,24,30,26,339.0,2600,5
+47789,Hyundai,Tucson FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,Yes,No,25,33,28,322.0,2400,6
+48604,Hyundai,Venue,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (AV-S1),CVT,,4,1.6,No,No,Regular,No,No,29,32,31,291.0,2150,6
+48557,INEOS Automotive,Grenadier,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,15,15,15,592.0,5500,2
+48558,INEOS Automotive,Grenadier Trialmaster Edition,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,14,14,14,633.0,5850,2
+48520,Infiniti,QX50,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (AV-S8),CVT,,4,2.0,Yes,No,Premium,No,No,23,29,26,343.0,3150,5
+48529,Infiniti,QX50 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.0,Yes,No,Premium,No,No,22,28,25,357.0,3300,5
+48094,Infiniti,QX55 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.0,Yes,No,Premium,No,No,22,28,25,366.0,3300,5
+48290,Infiniti,QX60 AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S9),Automatic,9.0,4,2.0,Yes,No,Premium,Yes,No,22,27,24,377.0,3400,5
+48284,Infiniti,QX60 FWD,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S9),Automatic,9.0,4,2.0,Yes,No,Premium,Yes,No,22,28,24,371.0,3400,5
+48285,Infiniti,QX80 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.5,Yes,No,Premium,Yes,No,16,20,18,504.0,4550,4
+48291,Infiniti,QX80 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.5,Yes,No,Premium,Yes,No,16,19,17,522.0,4850,3
+47733,Jaguar,F-Pace,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,22,27,24,376.0,3400,5
+47734,Jaguar,F-Pace SVR,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,5.0,No,Yes,Premium,Yes,No,15,21,17,519.0,4850,3
+48095,Jeep,Compass 4WD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,24,32,27,330.0,2500,5
+48513,Jeep,Gladiator 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.6,No,No,Regular,Yes,No,17,22,19,466.0,3550,4
+48552,Jeep,Grand Cherokee 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.6,No,No,Regular,Yes,No,19,26,22,407.0,3050,5
+48564,Jeep,Grand Cherokee 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.6,No,No,Regular,Yes,No,19,26,22,413.0,3050,5
+48551,Jeep,Grand Cherokee L 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.6,No,No,Regular,Yes,No,19,26,21,416.0,3200,4
+48563,Jeep,Grand Cherokee L 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.6,No,No,Regular,Yes,No,18,25,21,430.0,3200,4
+48559,Jeep,Grand Wagoneer 4WD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,14,20,17,537.0,4850,3
+48560,Jeep,Grand Wagoneer L 4WD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,14,20,17,537.0,4850,3
+48549,Jeep,Wagoneer 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Regular,Yes,No,17,24,20,453.0,3350,4
+48561,Jeep,Wagoneer 4WD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Regular,Yes,No,16,23,19,472.0,3550,4
+48550,Jeep,Wagoneer L 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Regular,Yes,No,17,24,20,453.0,3350,4
+48562,Jeep,Wagoneer L 4WD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Regular,Yes,No,16,23,19,476.0,3550,4
+48530,Jeep,Wrangler 2dr 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,20,23,21,416.0,3200,4
+48531,Jeep,Wrangler 2dr 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Manual 6-spd,Manual,6.0,6,3.6,No,No,Regular,Yes,No,17,23,19,462.0,3550,4
+48532,Jeep,Wrangler 4dr 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,20,22,21,426.0,3200,4
+48533,Jeep,Wrangler 4dr 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Manual 6-spd,Manual,6.0,6,3.6,No,No,Regular,Yes,No,16,22,19,476.0,3550,4
+48918,Jeep,Wrangler 4dr 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.6,No,No,Regular,Yes,No,18,23,20,451.0,3350,4
+48919,Jeep,Wrangler 4dr 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,8,6.4,No,No,Premium,No,No,13,16,14,635.0,5850,2
+47784,Kia,Carnival,Minivan - 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.5,No,No,Regular,No,No,18,26,21,426.0,3200,4
+48179,Kia,K4,Midsize Cars,Front-Wheel Drive,Automatic (AV-S1),CVT,,4,2.0,No,No,Regular,No,No,29,39,33,273.0,2050,6
+48180,Kia,K4,Midsize Cars,Front-Wheel Drive,Automatic (AV-S1),CVT,,4,2.0,No,No,Regular,No,No,30,40,34,264.0,1950,7
+48852,Kia,K4,Midsize Cars,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,1.6,Yes,No,Regular,No,No,26,36,29,303.0,2300,6
+47718,Kia,K5,Large Cars,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,No,No,25,36,29,310.0,2300,6
+47719,Kia,K5,Large Cars,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,Yes,No,26,37,30,298.0,2250,6
+47720,Kia,K5,Large Cars,Front-Wheel Drive,Automatic (AM-S8),Automatic,8.0,4,2.5,Yes,No,Regular,No,No,23,33,27,331.0,2500,5
+47717,Kia,K5 AWD,Large Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,No,No,24,33,27,329.0,2500,5
+47961,Kia,Seltos AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,1.6,Yes,No,Regular,No,No,24,27,25,350.0,2700,5
+47962,Kia,Seltos AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.0,No,No,Regular,Yes,No,27,31,29,309.0,2300,6
+47954,Kia,Seltos FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (AV-S8),CVT,,4,2.0,No,No,Regular,Yes,No,28,34,31,288.0,2150,6
+48100,Kia,Sorento AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,Yes,No,23,28,25,357.0,2700,5
+48101,Kia,Sorento AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S8),Automatic,8.0,4,2.5,Yes,No,Regular,Yes,No,20,27,23,389.0,2900,5
+48068,Kia,Sorento FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,Yes,No,23,31,26,339.0,2600,5
+48069,Kia,Sorento FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (AM-S8),Automatic,8.0,4,2.5,Yes,No,Regular,Yes,No,20,29,23,382.0,2900,5
+47942,Kia,Soul,Small Station Wagons,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,2.0,No,No,Regular,Yes,No,27,33,30,302.0,2250,6
+47943,Kia,Soul Eco dynamics,Small Station Wagons,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,2.0,No,No,Regular,Yes,No,29,35,31,287.0,2150,6
+48096,Kia,Sportage AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,Yes,No,23,27,25,361.0,2700,5
+48065,Kia,Sportage FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,Yes,No,25,32,28,317.0,2400,6
+48102,Kia,Sportage X-pro,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,Yes,No,23,30,26,344.0,2600,5
+48534,Kia,Telluride AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.8,No,No,Regular,Yes,No,18,23,20,442.0,3350,4
+48521,Kia,Telluride FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.8,No,No,Regular,Yes,No,20,26,22,398.0,3050,5
+48130,Land Rover,Defender 110,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,18,20,19,474.0,4350,4
+48566,Land Rover,Defender 110,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),Automatic,8.0,8,5.0,No,Yes,Premium,Yes,No,14,18,16,574.0,5150,2
+48567,Land Rover,Defender 130,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),Automatic,8.0,8,5.0,No,Yes,Premium,Yes,No,14,19,16,567.0,5150,3
+48131,Land Rover,Defender 90,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,18,21,19,465.0,4350,4
+48565,Land Rover,Defender 90,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),Automatic,8.0,8,5.0,No,Yes,Premium,Yes,No,15,19,16,550.0,5150,3
+48123,Land Rover,Discovery,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,19,24,21,421.0,3900,4
+48104,Land Rover,Discovery Sport,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S9),Automatic,9.0,4,2.0,Yes,No,Premium,Yes,No,19,23,20,437.0,4100,4
+48103,Land Rover,Range Rover Evoque,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S9),Automatic,9.0,4,2.0,Yes,No,Premium,Yes,No,20,27,22,398.0,3750,5
+47737,Land Rover,Range Rover Velar,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,22,26,23,381.0,3550,5
+48183,Lexus,ES 250 AWD,Midsize Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,No,No,24,33,28,320.0,2400,6
+48181,Lexus,ES 350,Midsize Cars,Front-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.5,No,No,Regular,No,No,22,32,25,347.0,2700,5
+48182,Lexus,ES 350 F Sport,Midsize Cars,Front-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.5,No,No,Regular,No,No,22,31,25,352.0,2700,5
+48964,Lexus,GX 550,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.4,Yes,No,Premium,No,No,15,21,17,505.0,4850,3
+48847,Lexus,IS 300,Compact Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,No,No,21,31,25,356.0,3300,5
+48843,Lexus,IS 300 AWD,Compact Cars,All-Wheel Drive,Automatic (S6),Automatic,6.0,6,3.5,No,No,Premium,No,No,19,26,22,407.0,3750,5
+48844,Lexus,IS 350,Compact Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.5,No,No,Premium,No,No,20,28,23,385.0,3550,5
+48845,Lexus,IS 350 AWD,Compact Cars,All-Wheel Drive,Automatic (S6),Automatic,6.0,6,3.5,No,No,Premium,No,No,19,26,22,407.0,3750,5
+48846,Lexus,IS 500,Compact Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,8,5.0,No,No,Premium,No,No,17,25,20,451.0,4100,4
+48829,Lexus,LC 500,Subcompact Cars,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,8,5.0,No,No,Premium,No,No,16,24,18,481.0,4550,4
+48817,Lexus,LC 500 Convertible,Minicompact Cars,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,8,5.0,No,No,Premium,No,No,15,25,18,489.0,4550,4
+48854,Lexus,LS 500,Midsize Cars,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.4,Yes,No,Premium,No,No,18,29,22,404.0,3750,5
+48855,Lexus,LS 500 AWD,Midsize Cars,All-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.4,Yes,No,Premium,No,No,17,27,21,418.0,3900,4
+48965,Lexus,LX 600,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.4,Yes,No,Premium,Yes,No,17,22,19,477.0,4350,4
+47790,Lexus,NX 250,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,Yes,No,26,33,28,311.0,2400,6
+47794,Lexus,NX 250 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,Yes,No,25,32,28,318.0,2400,6
+47797,Lexus,NX 350 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Premium,Yes,No,21,28,24,370.0,3400,5
+47798,Lexus,NX 350 AWD F Sport,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Premium,Yes,No,21,28,24,370.0,3400,5
+48834,Lexus,RC 300,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,No,No,21,31,25,356.0,3300,5
+48831,Lexus,RC 300 AWD,Subcompact Cars,All-Wheel Drive,Automatic (S6),Automatic,6.0,6,3.5,No,No,Premium,No,No,19,26,22,407.0,3750,5
+48832,Lexus,RC 350,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.5,No,No,Premium,No,No,20,28,23,385.0,3550,5
+48833,Lexus,RC 350 AWD,Subcompact Cars,All-Wheel Drive,Automatic (S6),Automatic,6.0,6,3.5,No,No,Premium,No,No,19,26,22,407.0,3750,5
+48835,Lexus,RC F,Subcompact Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,8,5.0,No,No,Premium,No,No,16,24,19,459.0,4350,4
+48906,Lexus,RX 350,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Premium,Yes,No,22,29,25,354.0,3300,5
+48921,Lexus,RX 350 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Premium,Yes,No,21,28,24,370.0,3400,5
+48946,Lexus,TX 350,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Premium,Yes,No,21,27,23,377.0,3550,5
+48963,Lexus,TX 350 AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Premium,Yes,No,20,26,23,387.0,3550,5
+48132,Lincoln,Aviator AWD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.0,Yes,No,Regular,Yes,No,17,25,20,447.0,3350,4
+48112,Lincoln,Aviator RWD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.0,Yes,No,Regular,Yes,No,18,25,21,425.0,3200,4
+48611,Lincoln,Corsair AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,21,28,24,374.0,2800,5
+48605,Lincoln,Corsair FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,22,30,25,357.0,2700,5
+48536,Lincoln,Nautilus AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,21,29,24,366.0,2800,5
+48967,Lincoln,Navigator 4WD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.5,Yes,No,Regular,Yes,No,15,22,17,510.0,3950,3
+49130,Lotus,Emira,Two Seaters,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,6,3.5,No,Yes,Regular,No,No,16,24,19,460.0,3550,4
+49131,Lotus,Emira,Two Seaters,Rear-Wheel Drive,Automatic (S6),Automatic,6.0,6,3.5,No,Yes,Regular,No,No,18,26,21,413.0,3200,4
+48818,MINI,Cooper Convertible,Minicompact Cars,Front-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,27,37,30,287.0,2750,6
+47972,MINI,Cooper Hardtop 2 door,Subcompact Cars,Front-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,28,39,32,274.0,2550,6
+48849,MINI,Cooper Hardtop 4 door,Compact Cars,Front-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,28,39,32,276.0,2550,6
+48819,MINI,Cooper S Convertible,Minicompact Cars,Front-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,26,36,30,292.0,2750,6
+47777,MINI,Cooper S Hardtop 2 door,Subcompact Cars,Front-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,28,39,32,275.0,2550,6
+47995,MINI,Cooper S Hardtop 4 door,Compact Cars,Front-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,28,39,32,273.0,2550,6
+47799,MINI,Countryman S All4,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,24,32,27,323.0,3050,5
+48820,MINI,JCW Convertible,Minicompact Cars,Front-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,26,35,30,296.0,2750,6
+47800,MINI,JCW Countryman All4,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,23,30,26,341.0,3150,5
+48840,MINI,JCW Hardtop 2 Door,Subcompact Cars,Front-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,27,37,30,288.0,2750,6
+49132,Maserati,GT2 Stradale,Two Seaters,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,No,No,15,25,18,474.0,4550,4
+49138,Maserati,Grancabrio,Subcompact Cars,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,17,26,20,430.0,4100,4
+48839,Maserati,Grancabrio Modena,Subcompact Cars,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,17,26,20,430.0,4100,4
+48838,Maserati,Grancabrio Trofeo,Subcompact Cars,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,17,26,20,430.0,4100,4
+49137,Maserati,Granturismo,Subcompact Cars,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,18,27,21,412.0,3900,4
+48837,Maserati,Granturismo Modena,Subcompact Cars,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,18,27,21,412.0,3900,4
+48836,Maserati,Granturismo Trofeo,Subcompact Cars,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,18,27,21,412.0,3900,4
+48923,Maserati,Grecale Trofeo,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,18,25,20,432.0,4100,4
+48148,Maserati,MC20,Two Seaters,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,No,No,15,25,18,474.0,4550,4
+48149,Maserati,MC20 Spyder,Two Seaters,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,No,No,15,25,18,482.0,4550,4
+47989,Mazda,3 4-Door 2WD,Compact Cars,Front-Wheel Drive,Automatic (S6),Automatic,6.0,4,2.5,No,No,Regular,No,No,27,37,31,287.0,2150,6
+47990,Mazda,3 4-Door 4WD,Compact Cars,4-Wheel Drive,Automatic (S6),Automatic,6.0,4,2.5,No,No,Regular,No,No,26,35,30,301.0,2250,6
+47991,Mazda,3 4-Door 4WD,Compact Cars,4-Wheel Drive,Automatic (S6),Automatic,6.0,4,2.5,Yes,No,Regular,No,No,23,32,27,334.0,2500,5
+48026,Mazda,3 5-Door 2WD,Midsize Cars,Front-Wheel Drive,Manual 6-spd,Manual,6.0,4,2.5,No,No,Regular,No,No,26,36,30,296.0,2250,6
+48027,Mazda,3 5-Door 2WD,Midsize Cars,Front-Wheel Drive,Automatic (S6),Automatic,6.0,4,2.5,No,No,Regular,No,No,27,35,30,294.0,2250,6
+48028,Mazda,3 5-Door 4WD,Midsize Cars,4-Wheel Drive,Automatic (S6),Automatic,6.0,4,2.5,No,No,Regular,No,No,26,33,29,311.0,2300,6
+48029,Mazda,3 5-Door 4WD,Midsize Cars,4-Wheel Drive,Automatic (S6),Automatic,6.0,4,2.5,Yes,No,Regular,No,No,23,31,26,337.0,2600,5
+48612,Mazda,CX-30 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S6),Automatic,6.0,4,2.5,No,No,Regular,No,No,26,33,29,309.0,2300,6
+48613,Mazda,CX-30 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S6),Automatic,6.0,4,2.5,Yes,No,Regular,No,No,22,30,25,353.0,2700,5
+48537,Mazda,CX-5 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S6),Automatic,6.0,4,2.5,No,No,Regular,No,No,23,29,25,348.0,2700,5
+48538,Mazda,CX-5 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S6),Automatic,6.0,4,2.5,No,No,Regular,Yes,No,26,30,28,321.0,2400,6
+48539,Mazda,CX-5 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S6),Automatic,6.0,4,2.5,Yes,No,Regular,No,No,22,27,24,370.0,2800,5
+48273,Mazda,CX-50 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S6),Automatic,6.0,4,2.5,No,No,Regular,No,No,25,31,28,322.0,2400,6
+48274,Mazda,CX-50 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S6),Automatic,6.0,4,2.5,Yes,No,Regular,Yes,No,23,29,25,355.0,2700,5
+48802,Mazda,MX-5,Two Seaters,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,4,2.0,No,No,Premium,No,No,26,34,29,305.0,2850,6
+48803,Mazda,MX-5,Two Seaters,Rear-Wheel Drive,Automatic (S6),Automatic,6.0,4,2.0,No,No,Premium,No,No,26,35,29,301.0,2850,6
+47994,Mercedes-Benz,AMG CLA45 S 4matic,Compact Cars,All-Wheel Drive,Automatic (AM8),Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,20,28,23,379.0,3550,5
+48582,Mercedes-Benz,AMG GT 55 4matic Plus (coupe),Two Seaters,All-Wheel Drive,Automatic 9-spd,Automatic,9.0,8,4.0,Yes,No,Premium,Yes,Yes,12,19,14,623.0,5850,2
+48848,Mercedes-Benz,AMG GT 63 4matic Plus,Compact Cars,All-Wheel Drive,Automatic 9-spd,Automatic,9.0,8,4.0,Yes,No,Premium,Yes,No,15,21,17,512.0,4850,3
+48583,Mercedes-Benz,AMG GT 63 4matic Plus (coupe),Two Seaters,All-Wheel Drive,Automatic 9-spd,Automatic,9.0,8,4.0,Yes,No,Premium,Yes,Yes,12,19,14,623.0,5850,2
+48804,Mercedes-Benz,AMG GT 63 PRO 4matic Plus (coupe),Two Seaters,All-Wheel Drive,Automatic 9-spd,Automatic,9.0,8,4.0,Yes,No,Premium,Yes,Yes,12,19,14,623.0,5850,2
+48483,Mercedes-Benz,AMG SL55 4matic Plus,Minicompact Cars,All-Wheel Drive,Automatic 9-spd,Automatic,9.0,8,4.0,Yes,No,Premium,Yes,Yes,13,21,16,558.0,5150,3
+48482,Mercedes-Benz,AMG SL63 4matic Plus,Minicompact Cars,All-Wheel Drive,Automatic 9-spd,Automatic,9.0,8,4.0,Yes,No,Premium,Yes,Yes,13,21,16,558.0,5150,3
+48506,Mercedes-Benz,Maybach S680 4matic,Large Cars,All-Wheel Drive,Automatic 9-spd,Automatic,9.0,12,6.0,Yes,No,Premium,Yes,Yes,12,20,15,603.0,5500,2
+48908,Mitsubishi,Eclipse Cross 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (AV-S8),CVT,,4,1.5,Yes,No,Regular,No,No,25,28,26,339.0,2600,5
+48928,Mitsubishi,Eclipse Cross 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (AV-S8),CVT,,4,1.5,Yes,No,Regular,No,No,25,26,25,353.0,2700,5
+48929,Mitsubishi,Eclipse Cross ES 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (AV-S8),CVT,,4,1.5,Yes,No,Regular,No,No,25,28,26,339.0,2600,5
+48907,Mitsubishi,Outlander 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (AV-S8),CVT,,4,2.5,No,No,Regular,No,No,24,31,27,333.0,2500,5
+48925,Mitsubishi,Outlander 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (AV-S8),CVT,,4,2.5,No,No,Regular,No,No,24,30,26,342.0,2600,5
+48926,Mitsubishi,Outlander Sport 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (AV-S6),CVT,,4,2.0,No,No,Regular,No,No,23,29,26,343.0,2600,5
+48927,Mitsubishi,Outlander Sport 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (AV-S6),CVT,,4,2.4,No,No,Regular,No,No,23,28,25,350.0,2700,5
+48186,Nissan,Altima,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,2.5,No,No,Regular,No,No,27,38,31,281.0,2150,6
+48187,Nissan,Altima AWD,Midsize Cars,All-Wheel Drive,Automatic (variable gear ratios),CVT,,4,2.5,No,No,Regular,No,No,25,34,28,317.0,2400,6
+48188,Nissan,Altima SL/SR,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,2.5,No,No,Regular,No,No,27,36,30,287.0,2250,6
+48947,Nissan,Armada 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.5,Yes,No,Premium,Yes,No,16,20,18,497.0,4550,4
+48968,Nissan,Armada 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.5,Yes,No,Premium,Yes,No,16,19,17,524.0,4850,3
+48969,Nissan,Armada 4WD PRO-4X,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.5,Yes,No,Premium,Yes,No,15,18,16,556.0,5150,3
+48509,Nissan,Frontier 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.8,No,No,Regular,Yes,No,19,24,21,432.0,3200,4
+48514,Nissan,Frontier 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.8,No,No,Regular,Yes,No,17,21,19,470.0,3550,4
+48515,Nissan,Frontier 4WD PRO4X,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.8,No,No,Regular,Yes,No,16,20,18,495.0,3700,4
+48259,Nissan,Kicks,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,2.0,No,No,Regular,Yes,No,28,35,31,287.0,2150,6
+48277,Nissan,Kicks AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (variable gear ratios),CVT,,4,2.0,No,No,Regular,No,No,27,34,30,299.0,2250,6
+49042,Nissan,Kicks Play,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,1.6,No,No,Regular,No,No,31,36,33,268.0,2050,6
+48930,Nissan,Murano AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S9),Automatic,9.0,4,2.0,Yes,No,Regular,Yes,No,21,27,23,387.0,2900,5
+48909,Nissan,Murano FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S9),Automatic,9.0,4,2.0,Yes,No,Regular,Yes,No,21,27,23,387.0,2900,5
+48606,Nissan,Pathfinder 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.5,No,No,Regular,Yes,No,20,27,23,390.0,2900,5
+48615,Nissan,Pathfinder 4WD,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.5,No,No,Regular,Yes,No,21,27,23,379.0,2900,5
+48648,Nissan,Pathfinder 4WD Platinum,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.5,No,No,Regular,Yes,No,20,25,22,400.0,3050,5
+48616,Nissan,Pathfinder 4WD Rock Creek,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.5,No,No,Premium,Yes,No,20,23,21,418.0,3900,4
+48540,Nissan,Rogue AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,3,1.5,Yes,No,Regular,Yes,No,28,35,31,287.0,2150,6
+48542,Nissan,Rogue AWD Rock Creek,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,3,1.5,Yes,No,Regular,Yes,No,27,32,29,307.0,2300,6
+48541,Nissan,Rogue AWD SL/Platinum,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,3,1.5,Yes,No,Regular,Yes,No,28,34,31,287.0,2150,6
+48522,Nissan,Rogue FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (AV-S8),CVT,,3,1.5,Yes,No,Regular,Yes,No,30,37,33,269.0,2050,6
+48523,Nissan,Rogue FWD SL/Platinum,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (AV-S8),CVT,,3,1.5,Yes,No,Regular,Yes,No,29,36,32,278.0,2100,6
+48500,Nissan,Sentra,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,2.0,No,No,Regular,Yes,No,30,40,34,262.0,1950,7
+48501,Nissan,Sentra SR,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,2.0,No,No,Regular,Yes,No,30,38,33,270.0,2050,6
+48597,Nissan,Versa,Compact Cars,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,1.6,No,No,Regular,No,No,32,40,35,253.0,1900,7
+48598,Nissan,Versa,Compact Cars,Front-Wheel Drive,Manual 5-spd,Manual,5.0,4,1.6,No,No,Regular,No,No,27,35,30,296.0,2250,6
+48805,Nissan,Z,Two Seaters,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,6,3.0,Yes,No,Premium,No,No,18,24,20,435.0,4100,4
+48806,Nissan,Z,Two Seaters,Rear-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.0,Yes,No,Premium,No,No,19,28,22,405.0,3750,5
+48807,Nissan,Z NISMO,Two Seaters,Rear-Wheel Drive,Automatic (S9),Automatic,9.0,6,3.0,Yes,No,Premium,No,No,17,24,19,469.0,4350,4
+48808,Porsche,718 Boxster,Two Seaters,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,4,2.0,Yes,No,Premium,Yes,No,20,25,22,409.0,3750,5
+48809,Porsche,718 Boxster,Two Seaters,Rear-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,21,27,24,375.0,3400,5
+48584,Porsche,718 Boxster GTS,Two Seaters,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,6,4.0,No,No,Premium,No,No,17,24,19,458.0,4350,4
+48585,Porsche,718 Boxster GTS,Two Seaters,Rear-Wheel Drive,Automatic (AM-S7),Automatic,7.0,6,4.0,No,No,Premium,No,No,19,24,21,418.0,3900,4
+48812,Porsche,718 Boxster S,Two Seaters,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,4,2.5,Yes,No,Premium,Yes,No,19,24,21,423.0,3900,4
+48813,Porsche,718 Boxster S,Two Seaters,Rear-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.5,Yes,No,Premium,Yes,No,19,25,22,410.0,3750,5
+48810,Porsche,718 Cayman,Two Seaters,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,4,2.0,Yes,No,Premium,Yes,No,20,25,22,409.0,3750,5
+48811,Porsche,718 Cayman,Two Seaters,Rear-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,21,27,24,375.0,3400,5
+48586,Porsche,718 Cayman GTS,Two Seaters,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,6,4.0,No,No,Premium,No,No,17,24,19,458.0,4350,4
+48587,Porsche,718 Cayman GTS,Two Seaters,Rear-Wheel Drive,Automatic (AM-S7),Automatic,7.0,6,4.0,No,No,Premium,No,No,19,24,21,418.0,3900,4
+48814,Porsche,718 Cayman S,Two Seaters,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,4,2.5,Yes,No,Premium,Yes,No,19,24,21,423.0,3900,4
+48815,Porsche,718 Cayman S,Two Seaters,Rear-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.5,Yes,No,Premium,Yes,No,19,25,22,410.0,3750,5
+48816,Porsche,718 GT4 RS,Two Seaters,Rear-Wheel Drive,Automatic (AM-S7),Automatic,7.0,6,4.0,No,No,Premium,Yes,Yes,15,19,16,544.0,5150,3
+49032,Porsche,718 Spyder RS,Two Seaters,Rear-Wheel Drive,Automatic (AM-S7),Automatic,7.0,6,4.0,No,No,Premium,Yes,Yes,14,19,16,551.0,5150,3
+48589,Porsche,911 Carrera,Minicompact Cars,Rear-Wheel Drive,Automatic (AM-S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,18,25,21,424.0,3900,4
+49037,Porsche,911 Carrera 4 GTS,Minicompact Cars,All-Wheel Drive,Automatic (AM-S8),Automatic,8.0,6,3.6,Yes,No,Premium,Yes,No,17,23,19,461.0,4350,4
+49038,Porsche,911 Carrera 4 GTS Cabriolet,Minicompact Cars,All-Wheel Drive,Automatic (AM-S8),Automatic,8.0,6,3.6,Yes,No,Premium,Yes,No,17,23,19,468.0,4350,4
+48590,Porsche,911 Carrera Cabriolet,Minicompact Cars,Rear-Wheel Drive,Automatic (AM-S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,18,25,21,429.0,3900,4
+49135,Porsche,911 Carrera GTS,Minicompact Cars,Rear-Wheel Drive,Automatic (AM-S8),Automatic,8.0,6,3.6,Yes,No,Premium,Yes,No,17,24,20,440.0,4100,4
+49035,Porsche,911 Carrera GTS Cabriolet,Minicompact Cars,Rear-Wheel Drive,Automatic (AM-S8),Automatic,8.0,6,3.6,Yes,No,Premium,Yes,No,17,23,19,459.0,4350,4
+49133,Porsche,911 Carrera S,Minicompact Cars,Rear-Wheel Drive,Automatic (AM-S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,17,24,20,432.0,4100,4
+49134,Porsche,911 Carrera S Cabriolet,Minicompact Cars,Rear-Wheel Drive,Automatic (AM-S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,17,24,20,436.0,4100,4
+49033,Porsche,911 Carrera T,Minicompact Cars,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,6,3.0,Yes,No,Premium,Yes,No,17,25,20,448.0,4100,4
+49034,Porsche,911 Carrera T Cabriolet,Minicompact Cars,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,6,3.0,Yes,No,Premium,Yes,No,17,25,19,469.0,4350,4
+49039,Porsche,911 Targa 4 GTS,Minicompact Cars,All-Wheel Drive,Automatic (AM-S8),Automatic,8.0,6,3.6,Yes,No,Premium,Yes,No,17,23,19,468.0,4350,4
+48591,Porsche,911 Turbo,Minicompact Cars,All-Wheel Drive,Automatic (AM-S8),Automatic,8.0,6,3.7,Yes,No,Premium,Yes,Yes,14,21,17,534.0,4850,3
+48592,Porsche,911 Turbo Cabriolet,Minicompact Cars,All-Wheel Drive,Automatic (AM-S8),Automatic,8.0,6,3.7,Yes,No,Premium,Yes,Yes,14,20,16,546.0,5150,3
+48593,Porsche,911 Turbo S,Minicompact Cars,All-Wheel Drive,Automatic (AM-S8),Automatic,8.0,6,3.7,Yes,No,Premium,Yes,Yes,14,20,16,556.0,5150,3
+48594,Porsche,911 Turbo S Cabriolet,Minicompact Cars,All-Wheel Drive,Automatic (AM-S8),Automatic,8.0,6,3.7,Yes,No,Premium,Yes,Yes,14,20,16,549.0,5150,3
+48571,Porsche,Cayenne,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,17,23,19,469.0,4350,4
+48572,Porsche,Cayenne Coupe,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,17,23,19,469.0,4350,4
+48650,Porsche,Cayenne GTS,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,4.0,Yes,No,Premium,Yes,No,15,22,18,498.0,4550,4
+48651,Porsche,Cayenne GTS Coupe,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,4.0,Yes,No,Premium,Yes,No,16,22,18,489.0,4550,4
+48970,Porsche,Cayenne S,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,4.0,Yes,No,Premium,Yes,No,16,21,18,492.0,4550,4
+48971,Porsche,Cayenne S Coupe,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,4.0,Yes,No,Premium,Yes,No,16,21,18,492.0,4550,4
+48649,Porsche,Cayenne Turbo GT,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,8,4.0,Yes,No,Premium,Yes,No,15,20,17,521.0,4850,3
+48617,Porsche,Macan,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,19,25,21,424.0,3900,4
+49059,Porsche,Macan GTS,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,6,2.9,Yes,No,Premium,Yes,No,17,22,19,466.0,4350,4
+48618,Porsche,Macan S,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,6,2.9,Yes,No,Premium,Yes,No,17,23,19,466.0,4350,4
+48619,Porsche,Macan T,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,19,25,21,417.0,3900,4
+48194,Porsche,Panamera,Large Cars,Rear-Wheel Drive,Automatic (AM-S8),Automatic,8.0,6,2.9,Yes,No,Premium,Yes,No,18,25,21,431.0,3900,4
+48195,Porsche,Panamera 4,Large Cars,All-Wheel Drive,Automatic (AM-S8),Automatic,8.0,6,2.9,Yes,No,Premium,Yes,No,18,25,21,425.0,3900,4
+49043,Porsche,Panamera GTS,Large Cars,All-Wheel Drive,Automatic (AM-S8),Automatic,8.0,8,4.0,Yes,No,Premium,Yes,No,16,24,18,495.0,4550,4
+47722,Ram,1500 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Regular,Yes,No,18,25,21,433.0,3200,4
+47725,Ram,1500 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Regular,Yes,No,17,24,19,458.0,3550,4
+47727,Ram,1500 HO 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,15,21,17,521.0,4850,3
+47946,Ram,1500 RHO 4WD,Standard Pickup Trucks 4WD,4-Wheel Drive,Automatic 8-spd,Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,14,16,15,602.0,5500,2
+48294,Rolls-Royce,Cullinan,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,12,6.7,Yes,No,Premium,No,No,12,19,14,609.0,5850,2
+48295,Rolls-Royce,Cullinan Black Badge,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,12,6.7,Yes,No,Premium,No,No,12,19,14,609.0,5850,2
+48864,Rolls-Royce,Ghost,Large Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,12,6.7,Yes,No,Premium,No,Yes,12,19,14,609.0,5850,2
+48866,Rolls-Royce,Ghost Black Badge,Large Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,12,6.7,Yes,No,Premium,No,Yes,12,19,14,609.0,5850,2
+48865,Rolls-Royce,Ghost Extended,Large Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,12,6.7,Yes,No,Premium,No,Yes,12,19,14,609.0,5850,2
+48862,Rolls-Royce,Phantom,Large Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,12,6.7,Yes,No,Premium,No,Yes,12,19,14,609.0,5850,2
+48863,Rolls-Royce,Phantom Extended,Large Cars,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,12,6.7,Yes,No,Premium,No,Yes,12,19,14,609.0,5850,2
+48573,Subaru,Ascent,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.4,Yes,No,Regular,No,No,20,26,22,398.0,3050,5
+48574,Subaru,Ascent Limited/Touring/Onyx AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.4,Yes,No,Regular,No,No,19,25,21,419.0,3200,4
+48484,Subaru,BRZ,Minicompact Cars,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,4,2.4,No,No,Premium,No,No,20,27,22,398.0,3750,5
+48485,Subaru,BRZ,Minicompact Cars,Rear-Wheel Drive,Automatic (S6),Automatic,6.0,4,2.4,No,No,Premium,No,No,21,30,25,362.0,3300,5
+48543,Subaru,Crosstrek AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.0,No,No,Regular,Yes,No,27,34,29,300.0,2300,6
+48544,Subaru,Crosstrek AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.5,No,No,Regular,Yes,No,27,33,29,305.0,2300,6
+48545,Subaru,Crosstrek Wilderness AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.5,No,No,Regular,Yes,No,25,29,27,332.0,2500,5
+47740,Subaru,Forester AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.5,No,No,Regular,Yes,No,26,33,29,310.0,2300,6
+47741,Subaru,Forester Sport/Touring AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.5,No,No,Regular,Yes,No,25,32,28,317.0,2400,6
+48931,Subaru,Forester Wilderness AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.5,No,No,Regular,Yes,No,25,28,26,338.0,2600,5
+48507,Subaru,Impreza,Small Station Wagons,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.0,No,No,Regular,Yes,No,27,34,30,297.0,2250,6
+48508,Subaru,Impreza,Small Station Wagons,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.5,No,No,Regular,Yes,No,26,33,29,306.0,2300,6
+47778,Subaru,Legacy AWD,Midsize Cars,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.5,No,No,Regular,Yes,No,27,35,30,295.0,2250,6
+47779,Subaru,Legacy AWD,Midsize Cars,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.4,Yes,No,Regular,Yes,No,23,31,26,337.0,2600,5
+47801,Subaru,Outback AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.5,No,No,Regular,Yes,No,26,32,28,314.0,2400,6
+47802,Subaru,Outback AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.4,Yes,No,Regular,Yes,No,22,29,25,356.0,2700,5
+47803,Subaru,Outback Wilderness AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.4,Yes,No,Regular,Yes,No,21,26,23,378.0,2900,5
+48856,Subaru,WRX,Midsize Cars,All-Wheel Drive,Manual 6-spd,Manual,6.0,4,2.4,Yes,No,Premium,No,No,19,26,22,413.0,3750,5
+48857,Subaru,WRX,Midsize Cars,All-Wheel Drive,Automatic (AV-S8),CVT,,4,2.4,Yes,No,Premium,No,No,18,25,21,422.0,3900,4
+48951,Toyota,4Runner 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,No,No,20,26,22,399.0,3050,5
+48952,Toyota,4Runner 2WD,Standard Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,Yes,No,20,24,22,404.0,3050,5
+48976,Toyota,4Runner 4WD,Standard Sport Utility Vehicle 4WD,Part-time 4-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,No,No,19,25,21,417.0,3200,4
+48982,Toyota,4Runner 4WD,Standard Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,Yes,No,20,24,21,415.0,3200,4
+48493,Toyota,Corolla,Compact Cars,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,2.0,No,No,Regular,No,No,32,41,35,254.0,1900,7
+48494,Toyota,Corolla,Compact Cars,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,2.0,No,No,Regular,No,No,31,40,34,257.0,1950,7
+48495,Toyota,Corolla,Compact Cars,Front-Wheel Drive,Automatic (AV-S10),CVT,,4,2.0,No,No,Regular,No,No,31,38,34,265.0,1950,7
+48911,Toyota,Corolla Cross,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (AV-S10),CVT,,4,2.0,No,No,Regular,Yes,No,31,33,32,276.0,2100,6
+48938,Toyota,Corolla Cross AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (AV-S10),CVT,,4,2.0,No,No,Regular,Yes,No,29,31,30,294.0,2250,6
+48496,Toyota,Corolla FX,Compact Cars,Front-Wheel Drive,Automatic (variable gear ratios),CVT,,4,2.0,No,No,Regular,No,No,31,39,34,261.0,1950,7
+47996,Toyota,Corolla Hatchback,Compact Cars,Front-Wheel Drive,Automatic (AV-S10),CVT,,4,2.0,No,No,Regular,No,No,32,41,35,254.0,1900,7
+47997,Toyota,Corolla Hatchback XSE,Compact Cars,Front-Wheel Drive,Automatic (AV-S10),CVT,,4,2.0,No,No,Regular,No,No,30,38,33,266.0,2050,6
+48821,Toyota,GR 86,Minicompact Cars,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,4,2.4,No,No,Premium,No,No,20,26,22,401.0,3750,5
+48822,Toyota,GR 86,Minicompact Cars,Rear-Wheel Drive,Automatic (S6),Automatic,6.0,4,2.4,No,No,Premium,No,No,21,30,24,366.0,3400,5
+48595,Toyota,GR Corolla,Subcompact Cars,All-Wheel Drive,Automatic (S8),Automatic,8.0,3,1.6,Yes,No,Premium,No,No,19,27,22,395.0,3750,5
+48596,Toyota,GR Corolla,Subcompact Cars,All-Wheel Drive,Manual 6-spd,Manual,6.0,3,1.6,Yes,No,Premium,No,No,21,28,24,368.0,3400,5
+47966,Toyota,GR Supra,Two Seaters,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Premium,Yes,No,25,31,27,322.0,3050,5
+47967,Toyota,GR Supra,Two Seaters,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,6,3.0,Yes,No,Premium,Yes,No,23,31,26,342.0,3150,5
+47968,Toyota,GR Supra,Two Seaters,Rear-Wheel Drive,Manual 6-spd,Manual,6.0,6,3.0,Yes,No,Premium,No,No,19,27,21,411.0,3900,4
+48974,Toyota,Grand Highlander AWD LE/XLE,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,Yes,No,21,27,23,379.0,2900,5
+48975,Toyota,Grand Highlander AWD Limited/Platinum,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,Yes,No,20,26,22,400.0,3050,5
+48949,Toyota,Grand Highlander LE/XLE,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,Yes,No,21,28,24,371.0,2800,5
+48950,Toyota,Grand Highlander Limited,Standard Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,Yes,No,21,28,24,366.0,2800,5
+48912,Toyota,Highlander,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,Yes,No,22,29,25,359.0,2700,5
+48913,Toyota,Highlander,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,No,No,21,28,24,370.0,2800,5
+48940,Toyota,Highlander AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,Yes,No,21,28,24,371.0,2800,5
+48910,Toyota,RAV4,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,Yes,No,27,35,30,292.0,2250,6
+48933,Toyota,RAV4 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,Yes,No,27,33,29,301.0,2300,6
+48934,Toyota,RAV4 AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,No,No,25,33,28,320.0,2400,6
+48935,Toyota,RAV4 AWD LE,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.5,No,No,Regular,Yes,No,27,34,30,296.0,2250,6
+48872,Toyota,Tacoma 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,No,No,20,26,23,394.0,2900,5
+48881,Toyota,Tacoma 4WD,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,No,No,19,24,21,424.0,3200,4
+48877,Toyota,Tacoma 4WD MT,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Manual 6-spd,Manual,6.0,4,2.4,Yes,No,Regular,No,No,18,23,20,452.0,3350,4
+48878,Toyota,Tacoma SR5/Sport/Off-Road/Limited 4WD,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,No,No,19,23,21,433.0,3200,4
+48879,Toyota,Tacoma SR5/Sport/Off-Road/Limited 4WD,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,Yes,No,20,23,21,420.0,3200,4
+48880,Toyota,Tacoma SR5/Sport/Off-Road/Limited 4WD,Small Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,No,No,19,24,21,424.0,3200,4
+48870,Toyota,Tacoma SR5/Sport/PreRunner 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,Yes,No,20,24,22,404.0,3050,5
+48871,Toyota,Tacoma SR5/Sport/PreRunner 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.4,Yes,No,Regular,Yes,No,21,26,23,393.0,2900,5
+48510,Toyota,Tundra 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.4,Yes,No,Regular,Yes,No,18,23,20,450.0,3350,4
+48511,Toyota,Tundra 2WD,Standard Pickup Trucks 2WD,Rear-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.4,Yes,No,Regular,Yes,No,18,23,20,442.0,3350,4
+48516,Toyota,Tundra 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.4,Yes,No,Regular,Yes,No,17,22,19,460.0,3550,4
+48517,Toyota,Tundra 4WD,Standard Pickup Trucks 4WD,Part-time 4-Wheel Drive,Automatic (S10),Automatic,10.0,6,3.4,Yes,No,Regular,Yes,No,17,22,19,468.0,3550,4
+48524,Volkswagen,Atlas,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,20,26,22,402.0,3050,5
+48278,Volkswagen,Atlas 4motion Peak Edition,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,18,25,20,436.0,3350,4
+48525,Volkswagen,Atlas Cross Sport,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,20,26,23,392.0,2900,5
+48548,Volkswagen,Atlas Cross Sport 4motion,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,19,26,21,420.0,3200,4
+48547,Volkswagen,Atlas SE 4motion,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,19,26,21,420.0,3200,4
+48546,Volkswagen,Atlas SEL 4motion,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,18,25,21,428.0,3200,4
+47998,Volkswagen,GLI,Compact Cars,Front-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Regular,Yes,No,25,35,29,311.0,2300,6
+47999,Volkswagen,GLI,Compact Cars,Front-Wheel Drive,Manual 6-spd,Manual,6.0,4,2.0,Yes,No,Regular,Yes,No,26,36,30,301.0,2250,6
+48851,Volkswagen,GTI,Compact Cars,Front-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Regular,Yes,No,24,32,27,326.0,2500,5
+48850,Volkswagen,Golf R,Compact Cars,All-Wheel Drive,Automatic (AM-S7),Automatic,7.0,4,2.0,Yes,No,Premium,Yes,No,22,31,25,349.0,3300,5
+48172,Volkswagen,Jetta,Compact Cars,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,1.5,Yes,No,Regular,Yes,No,29,39,33,271.0,2050,6
+48000,Volkswagen,Jetta Sport/SE/SEL,Compact Cars,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,1.5,Yes,No,Regular,Yes,No,29,40,33,271.0,2050,6
+48914,Volkswagen,Taos,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,1.5,Yes,No,Regular,Yes,No,28,36,31,287.0,2150,6
+48941,Volkswagen,Taos 4motion,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,1.5,Yes,No,Regular,Yes,No,25,33,28,318.0,2400,6
+49047,Volkswagen,Tiguan,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,25,32,28,320.0,2400,6
+49060,Volkswagen,Tiguan 4motion,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,22,30,25,351.0,2700,5
+49048,Volkswagen,Tiguan S,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S8),Automatic,8.0,4,2.0,Yes,No,Regular,Yes,No,26,34,29,307.0,2300,6
