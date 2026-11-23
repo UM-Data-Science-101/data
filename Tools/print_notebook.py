@@ -52,6 +52,8 @@ format:
     include-in-header:
       text: |
         #set image(width: IMAGE)
+        #set table(inset: (x: 3pt, y: 4pt))
+        #show table: set text(size: TABLETEXT)
         #show raw: set text(size: 7pt)
         #show raw.where(block: true): set par(justify: false)
 ---
@@ -87,6 +89,11 @@ def curate(nb, two_columns=True, summary=True):
             # Wrap long lines, which would otherwise run off the page.
             cell["source"] = [w + "\n" for l in source.splitlines()
                               for w in textwrap.wrap(l, width, subsequent_indent="      ") or [""]]
+            # A statsmodels table has an HTML copy and a LaTeX copy. Quarto
+            # picks the LaTeX copy, which prints as nothing, so drop it.
+            for out in cell.get("outputs", []):
+                if "text/html" in out.get("data", {}):
+                    out["data"].pop("text/latex", None)
             if summary:
                 outputs = []
                 for out in cell.get("outputs", []):
@@ -101,9 +108,11 @@ def curate(nb, two_columns=True, summary=True):
         if cell["source"]:
             cells.append(cell)
     # The print settings go in a first raw cell, which Quarto reads as front
-    # matter.
+    # matter. Tables get small text in two columns: a table wider than its
+    # column prints each row label on top of the numbers beside it.
     layout = (LAYOUT.replace("COLUMNS", "2" if two_columns else "1")
-                    .replace("IMAGE", "90%" if two_columns else "50%"))
+                    .replace("IMAGE", "90%" if two_columns else "50%")
+                    .replace("TABLETEXT", "7pt" if two_columns else "9pt"))
     nb["cells"] = [{"cell_type": "raw", "metadata": {},
                     "source": layout.splitlines(keepends=True)}] + cells
     return nb
